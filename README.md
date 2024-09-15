@@ -1,7 +1,7 @@
 # 👋 Hi, I'm 季潮悦!
 
 ## 🚀 About Me
-I'm a passionate developer specializing in contract development, blockchain technology, wallet development, and full-stack development. I am committed to leveraging cutting-edge technologies to create efficient and scalable solutions. 
+I'm a passionate developer specializing in contract development, blockchain technology, wallet development, and full-stack development. I am committed to leveraging cutting-edge technologies to create efficient and scalable solutions.
 
 - **Name**: 季潮悦
 - **Gender**: Male
@@ -15,7 +15,7 @@ I'm a passionate developer specializing in contract development, blockchain tech
 
 ### Beijing Hesi Information Technology Co., Ltd. (2023.6 - 2024.7)
 **DBrain Project**
-- **Description**: Enhance database monitoring and performance analysis efficiency. 
+- **Description**: Enhance database monitoring and performance analysis efficiency.
 - **Responsibilities**: Architecture design, visualization platform development, microservices, caching, deployment.
 - **Technologies**: Go-zero, MongoDB, Kubernetes, pprof, Helm, Vue3, TypeScript
 
@@ -62,3 +62,8 @@ I'm a passionate developer specializing in contract development, blockchain tech
 - [GitHub](https://github.com/kumu-G) ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
 - [LeetCode](https://leetcode.cn/u/busy-i3rown/) ![LeetCode](https://img.shields.io/badge/-LeetCode-FE7D37?logo=leetcode&logoColor=white)
 - [Email](mailto:1710684003@qq.com) ![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)
+
+
+## 今年汇总 ✨
+
+<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=kumu-G&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumu-G&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
