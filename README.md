@@ -14,10 +14,6 @@ image
 💬 Ask me about Solidity, Python, Go, Rust, Move, MongoDB, MySQL, Docker
 📫 How to reach me:
 jichaoyuekumug@gmail.com
-My Profile on LearnBlockChain // 如果不知道新用户名对应的这个页面，可留待后续补充具体内容或删除此部分
-⚡ Fun fact: I'm quite funny, or so I've been told
-📺 Latest YouTube Videos
-📖 Latest Blog Posts
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codevoweb.com/feed/" target="blank">
