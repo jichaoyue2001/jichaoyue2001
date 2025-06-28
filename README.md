@@ -1,4 +1,4 @@
-v# <span style="color: #ff79c6">👋 Hey there, I'm **季潮悦 (Jayce Ji)**</span>  
+<span style="color: #ff79c6">👋 Hey there, I'm **季潮悦 (Jayce Ji)**</span>  
 
 🎯 **Web3 Developer | Blockchain Enthusiast**  
 🌍 **Crafting the Decentralized Future, One Block at a Time**  
