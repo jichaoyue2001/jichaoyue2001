@@ -9,7 +9,7 @@
 
 - 📫 **Email:** [jichaoyuekumug@gmail.com](mailto:jichaoyuekumug@gmail.com)  
 - 📖 **LearnBlockChain Profile:** [View My Profile](https://learnblockchain.cn/inside_retire)
-- 🌟 **WeChat Official Account:** ![WeChat Official Account](https://github.com/jichaoyue2001/jichaoyue666/blob/main/httpweixin.qq.comrmpvxAnP-HEFqxprbVc90Wt.png)
+- 🌟 **WeChat Official Account:** ![WeChat Official Account](https://github.com/jichaoyue2024/jichaoyue666/blob/main/httpweixin.qq.comrmpvxAnP-HEFqxprbVc90Wt.png)
 
 
 
